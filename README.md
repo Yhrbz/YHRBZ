@@ -5,7 +5,7 @@ Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in Mallet - PR
-* 🖥️  See my portfolio at []
+* 🖥️  See my portfolio at
 * ✉️  You can contact me at [yuricellpc@gmail.com](mailto:yuricellpc@gmail.com)
 * 🧠  I'm learning HTML | JavaScript | CSS
 * ⚡  I love watching SpongeBob SquarePants
