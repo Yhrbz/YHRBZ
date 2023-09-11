@@ -5,7 +5,7 @@ Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in Mallet - PR
-* 🖥️  See my portfolio on the [Linktree](https://linktr.ee/yhrbz)
+* 🖥️  See my portfolio on the [Linktree](https://linktr.ee/yhrbz) target="_blank"
 * 🧠  I'm learning HTML | JavaScript | CSS
 * ⚡  I love watching SpongeBob SquarePants
 
